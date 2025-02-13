@@ -12,5 +12,5 @@ This repository contains my work on **Data Structures** and **Algorithms**.
 ## 🚀 How to use?  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/kullanıcı-adı/DataStructures-Algorithms.git
+   git clone https://github.com/hkNexar1/DataStructures-Algorithms.git
 
