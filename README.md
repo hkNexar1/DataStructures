@@ -1,16 +1,16 @@
 # DataStructures-Algorithms  
-Bu repo, **Veri Yapıları** ve **Algoritmalar** üzerine yaptığım çalışmaları içermektedir.  
+This repository contains my work on **Data Structures** and **Algorithms**. 
 
-## 📌 İçerik  
-✅ Bağlı Listeler (Linked List)  
-✅ Yığın (Stack) ve Kuyruk (Queue)  
-✅ Ağaçlar (Trees) ve Graf (Graph)  
-✅ Sıralama Algoritmaları (Sorting Algorithms)  
-✅ Arama Algoritmaları (Searching Algorithms)  
-✅ Dinamik Programlama (Dynamic Programming)  
+## 📌 Contents
+- Linked List 
+- Stack and Queue  
+- Trees and Graph  
+- Sorting Algorithms
+- Searching Algorithms  
+- Dynamic Programming  
 
-## 🚀 Nasıl Kullanılır?  
-1. Bu repoyu klonlayın:  
+## 🚀 How to use?  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/kullanıcı-adı/DataStructures-Algorithms.git
 
