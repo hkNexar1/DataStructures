@@ -25,9 +25,9 @@ int iterative_binary_search_tree(int array[], int x, int low, int high){
 
 		int mid = low + (high - low) / 2;
 
-		if (mid == x){return mid;}
-		if (x > mid){return iterative_binary_search_tree(array, x, mid + 1, high);}
-		else {return iterative_binary_search_tree(array, x, low, mid - 1);}
+		if (array[mid] == x){return mid;}
+		if (x > array[mid]){return low = mid + 1;}
+		else {return high = mid - 1;}
 	
 	
 	return -1;
